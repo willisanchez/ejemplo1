@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>El Tío Nacho Ferretería</title>
+    <style>
+        body {
+            background-color: lightgrey;  
+        }
+
+        #titulo-principal {
+            background-color:rgb(255, 255, 0);
+            color: black;
+            text-align: center;
+            padding: 20px 0;
+            margin-top: 0; 
+        }
+        
+        #redes-sociales {
+            text-align: center;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1 id="titulo-principal">El Tío Nacho Ferretería</h1>
+
+    <h2>Sobre Nosotros</h2>
+    <p>En El Tío Nacho Ferretería, nos enorgullecemos de ofrecer a nuestros clientes una amplia gama de productos de ferretería de alta calidad, junto con un servicio excepcional. Desde herramientas manuales hasta suministros eléctricos, ¡tenemos todo lo que necesitas para tus proyectos de construcción, reparación o renovación!</p>
+
+    <h2>Contacto</h2>
+    <p>¡Estamos aquí para ayudarte con todas tus necesidades de ferretería! No dudes en contactarnos:</p>
+    <address>
+        <p>Dirección: Calle Principal, número 123, Ciudad</p>
+        <p>Teléfono: <a href="tel:555-123-4567">555-123-4567</a></p>
+        <p>Correo Electrónico: <a href="mailto:info@eltionachoferr.com">info@eltionachoferr.com</a></p>
+    </address>
+    <p>Horario de Atención:</p>
+    <ul>
+        <li>Lunes a Viernes: 8:00 am - 6:00 pm</li>
+        <li>Sábados: 9:00 am - 3:00 pm</li>
+        <li>Domingos: Cerrado</li>
+    </ul>
+
+    <div id="redes-sociales">
+        <a href="https://www.instagram.com/eltionachoferr" target="_blank">Instagram</a>
+        <a href="https://www.facebook.com/eltionachoferr" target="_blank">Facebook</a>
+        <a href="https://www.tiktok.com/@eltionachoferr" target="_blank">TikTok</a>
+    </div>
+
+    <img src="https://media2.giphy.com/media/IIW6LBzskIXLulVcPI/giphy.gif?cid=6c09b952o04em2q4m1jbbx5m2nyp2hr439u9nm4e8s7ctsk2&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="GIF" style="display: block; margin: 0 auto;">
+
+    <footer>
+        <p>&copy; 2024 El Tío Nacho Ferretería. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
